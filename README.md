@@ -1,4 +1,3 @@
-# PRODIGY_FSD_03 
 Local Store E-commerce Platform
 
 This project is a fully functional e-commerce website developed for a local store, enabling customers to browse, search and purchase products online. The platform brings local shopping to the digital space by offering a user-friendly interface with seamless shopping and checkout experiences.
